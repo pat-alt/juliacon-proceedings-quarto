@@ -15,7 +15,7 @@ abstract: |
   This document is a template demonstrating the `juliacon-proceedings` format. It is a standard Quarto document composed of Markdown, LaTeX and code chunks. It is rendered to PDF and HTML. The PDF is rendered using the `juliacon-proceedings-pdf` format, which is based on the `juliacon-proceedings` LaTeX class. The HTML is rendered using the `juliacon-proceedings-html` format, which is based on the `juliacon-proceedings` HTML template.
 keywords: [Template, Demo, Quarto, JuliaCon]
 bibliography: bibliography.bib  
-jupyter: julia-1.9
+jupyter: julia-1.10
 ---
 
 ```{julia}
